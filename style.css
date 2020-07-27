@@ -1,40 +1,40 @@
 html {
-	font-size:16px;
+	font-size:1em;
 }
 
 body {
 	font-family: 'Nunito Sans';
-	max-width: 800px;
-	margin: 40px 60px;
+	max-width: 50em;
+	margin: 3em 4em;
 }
 
 p {
-	margin:0px;
+	margin:0em;
 }
 
 #title {
-	font-size: 125%;
+	font-size: 1.2em;
 	font-family: 'Nunito Sans';
 	font-weight: 700;
 }
 
 .section {
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
 }
 
 .section-title {
 	font-size: 125%;
 	background-color: #fff2cc;
-	padding: 0px 4px;
-	border-radius: 5px;
-	margin: 10px -4px;
+	padding: 0em 0.25em;
+	border-radius: 0.25em;
+	margin: 1.2em -4px;
 	font-family: 'Nunito';
 	font-weight: 600;
 }
 
 .section-title-container {
-	padding: 5px 0px;
+	padding: 0.2em 0em;
 }
 
 a:link {
@@ -58,4 +58,4 @@ a:active {
 }
 
 @media only screen
-and (max-device-width : 600px) {html{font-size: 18px;} #title {font-size: 150%;} table{font-size:80%;}}
+and (max-device-width : 600px) {html{font-size: 1.2em;} #title {font-size: 1.2em;} table{font-size:0.8em;}}

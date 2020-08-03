@@ -4,7 +4,7 @@ html {
 
 body {
 	font-family: 'Nunito Sans';
-	max-width: 50em;
+	max-width: 60em;
 	margin: 3em 4em;
 }
 
@@ -55,6 +55,15 @@ a:hover {
 a:active {
   color: #ea9999;
   text-decoration: none;
+}
+
+img {
+	box-shadow: 0.25em 0.25em 0.25em grey;
+	max-height: 16em;
+} 
+
+.photog-separator {
+	padding-left: 1em;
 }
 
 @media only screen

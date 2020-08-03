@@ -60,12 +60,9 @@ a:active {
 img {
 	box-shadow: 0.25em 0.25em 0.25em grey;
 	max-height: 14em;
+	margin-right:1em;
+	margin-bottom:1em;
 } 
-
-.photog-separator {
-	padding-left: 1em;
-	padding-bottom: 1em;
-}
 
 @media only screen
 and (max-device-width : 600px) {html{font-size: 1em;} #title {font-size: 1.2em;} table{font-size:0.8em;}}

@@ -59,11 +59,12 @@ a:active {
 
 img {
 	box-shadow: 0.25em 0.25em 0.25em grey;
-	max-height: 16em;
+	max-height: 14em;
 } 
 
 .photog-separator {
 	padding-left: 1em;
+	padding-top: 1em;
 }
 
 @media only screen

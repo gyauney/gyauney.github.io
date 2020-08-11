@@ -65,4 +65,4 @@ img {
 } 
 
 @media only screen
-and (max-device-width : 600px) {html{font-size: 1em;} body{margin: 1.5em 2em;} #title {font-size: 1.2em;} img {max-hieght:12em;} table{font-size:0.8em;}}
+and (max-device-width : 600px) {html{font-size: 1em;} body{margin: 1.5em 2em;} #title {font-size: 1.2em;} img {max-height:12em;} table{font-size:0.8em;}}

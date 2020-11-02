@@ -18,6 +18,10 @@ p {
 	font-weight: 700;
 }
 
+.bold {
+	font-weight: 700;
+}
+
 .section {
 	margin-top: 1.2em;
 	margin-bottom: 1.2em;
@@ -62,6 +66,19 @@ img {
 	max-height: 14em;
 	margin-right:1em;
 	margin-bottom:1em;
+} 
+
+
+.document {
+	border-style: dashed;
+	max-width:20em;
+	padding: 0.5em;
+	float:left;
+}
+
+.doc-image {
+	box-shadow: 0.25em 0.25em 0.25em grey;
+	max-height: 8em;
 } 
 
 @media only screen

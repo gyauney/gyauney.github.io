@@ -1,0 +1,96 @@
+html {
+	font-size:1em;
+}
+
+body {
+	font-family: 'Nunito Sans';
+	margin: 3em 4em;
+	width:60%;
+}
+
+
+#title {
+	font-size: 1.2em;
+	font-family: 'Nunito Sans';
+	font-weight: 700;
+}
+
+.section {
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+	display:block;
+}
+
+.section-title {
+	font-size: 125%;
+	background-color: #fff2cc;
+	padding: 0em 0.25em;
+	border-radius: 0.25em;
+	margin: 1.2em -4px;
+	font-family: 'Nunito';
+	font-weight: 600;
+}
+
+.section-title-container {
+	padding: 0.2em 0em;
+}
+
+p {
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+	display:block;
+}
+
+a:link {
+  color: #e06666;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #e06666;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ea9999;
+  text-decoration: none;
+}
+
+a:active {
+  color: #ea9999;
+  text-decoration: none;
+}
+
+.figure {
+	width:90em;
+}
+
+.document-holder {
+	width:25%;
+	padding: 0.5em;
+	float:left;
+	display:block;
+	right-margin:1em;
+}
+
+.document {
+	border-style: dashed;
+	right-margin:1em;
+	padding:1em;
+}
+
+.doc-image {
+	box-shadow: 0.25em 0.25em 0.25em grey;
+	max-height: 6em;
+	display:block;
+	margin-bottom:1em;
+} 
+
+.doc-text {
+	max-width:50%;
+	float:left;
+	right-margin:0.5em;
+}
+
+@media only screen
+and (max-device-width : 600px) {html{font-size: 1em;} body{margin: 1.5em 2em;} #title {font-size: 1.2em;} img {max-height:12em;} table{font-size:0.8em;}}

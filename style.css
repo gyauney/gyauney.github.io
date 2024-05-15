@@ -41,6 +41,23 @@ p {
 	padding: 0.2em 0em;
 }
 
+.pink {
+  color: #e06666;
+}
+
+.highlight {
+  background-color: #fff2cc;
+  box-decoration-break: clone;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 1.2em;
+  max-width: 520px;
+}
+
+.headingparagraph {
+  max-width: 680px;
+}
+
 a:link {
   color: #e06666;
   text-decoration: none;

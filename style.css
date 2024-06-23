@@ -55,6 +55,12 @@ p {
   max-width: 520px;
 }
 
+.award {
+  color:#674ea7;
+  font-style:italic;
+  font-weight:bold;
+}
+
 .headingparagraph {
   margin-top:0.1em;
   max-width: 680px;

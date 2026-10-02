@@ -55,6 +55,16 @@ p {
   max-width: 520px;
 }
 
+.highlight-box {
+  background-color: #fff2cc;
+  box-decoration-break: clone;
+  padding: 10px;
+  margin-left:-10px;
+  border-radius: 5px;
+  margin-top: 1.2em;
+  max-width: 600px;
+}
+
 .award {
   color:#674ea7;
   font-style:italic;
